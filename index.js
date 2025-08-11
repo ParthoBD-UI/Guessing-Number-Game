@@ -16,3 +16,6 @@ numOfWon++;
     numOfLost++;
 }
 }
+
+document.write("Total Number of Won = " + numOfWon + "<br>");
+document.write("Total Number of Lost = " + numOfWon + "<br>");
